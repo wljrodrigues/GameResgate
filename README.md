@@ -1,0 +1,2 @@
+# Game Resgate
+Nesse projeto de jogo online. Foi utilizado o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript. O objetivo é que o jogo seja compatível com diversas plataformas, incluindo dispositivos móveis. As etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript foram comentadas no código do início ao fim, utilizando a didática passo a passo em seu desenvolvimento. Neste projeto, especificamente, os jogos serão publicados de forma que possam ser acessados via browser.
